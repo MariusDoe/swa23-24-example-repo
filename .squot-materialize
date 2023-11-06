@@ -1,0 +1,10 @@
+OrderedCollection [
+	SquotTonelMapper {
+		#package : MCPackage {
+			#name : 'SWAGroup01'
+		},
+		#path : FSAbsolutePath [
+			'src'
+		]
+	}
+]
