@@ -1,4 +1,4 @@
 Package {
-	#'squeak_changestamp' : true,
-	#name : #SWAGroup01
+	#name : #SWAGroup01,
+	#'squeak_changestamp' : true
 }
